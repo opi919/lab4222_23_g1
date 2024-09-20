@@ -2,7 +2,7 @@
 
 Create an Employee Information System using the Laravel web framework.
 
-#How to run the project
+#How to run the project (laravel version: 8.75)
 
 1. Clone the repository
 2. Run `composer install`
